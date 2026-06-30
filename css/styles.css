@@ -1,0 +1,19 @@
+body {
+    background-color: #0b0914; /* Night background */
+    color: #e2e8f0;
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+.sketch-border {
+    border: 2px solid #5b21b6;
+    box-shadow: 4px 4px 0px #5b21b6;
+}
+
+.sketch-border:hover {
+    box-shadow: 6px 6px 0px #a855f7;
+    transform: translate(-2px, -2px);
+}
+
+.smooth-hover {
+    transition: all 0.2s ease-in-out;
+}
