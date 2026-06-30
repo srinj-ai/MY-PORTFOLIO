@@ -11,6 +11,7 @@ MY-PORTFOLIO/
 │   └── styles.css          # Custom styles
 ├── js/
 │   ├── tailwind.config.js  # Tailwind theme configuration
+│   ├── projects.js         # Project cards + GitHub links
 │   └── contact.js          # Contact form logic
 ├── LICENSE
 └── README.md

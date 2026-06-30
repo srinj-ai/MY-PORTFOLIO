@@ -17,3 +17,9 @@ body {
 .smooth-hover {
     transition: all 0.2s ease-in-out;
 }
+
+.project-card {
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+}

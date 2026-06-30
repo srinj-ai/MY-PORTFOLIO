@@ -97,25 +97,7 @@
             <h2 class="text-4xl font-bold text-white">My Projects</h2>
         </div>
 
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            <div class="bg-[#120f22] border border-purple-900/60 rounded-2xl p-6 flex flex-col justify-between sketch-border">
-                <h3 class="text-xl font-bold text-white mb-2">SpammyBot</h3>
-                <p class="text-slate-400 text-sm mb-4">A personal Discord bot that sends memes and watches for friends.</p>
-                <span class="text-purple-400 text-xs font-mono">Python</span>
-            </div>
-
-            <div class="bg-[#120f22] border border-purple-900/60 rounded-2xl p-6 flex flex-col justify-between sketch-border">
-                <h3 class="text-xl font-bold text-white mb-2">Infinite Clicker</h3>
-                <p class="text-slate-400 text-sm mb-4">A simple browser game with score multipliers. Very addicting!</p>
-                <span class="text-pink-400 text-xs font-mono">JavaScript</span>
-            </div>
-
-            <div class="bg-[#120f22] border border-purple-900/60 rounded-2xl p-6 flex flex-col justify-between sketch-border">
-                <h3 class="text-xl font-bold text-white mb-2">My Dotfiles</h3>
-                <p class="text-slate-400 text-sm mb-4">Custom Linux settings and terminal themes I use daily.</p>
-                <span class="text-blue-400 text-xs font-mono">Bash Shell</span>
-            </div>
-        </div>
+        <div id="projects-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8"></div>
     </section>
 
     <section id="contact" class="w-full px-6 py-16 bg-[#0a0814]">
@@ -143,6 +125,7 @@
         </div>
     </footer>
 
+    <script src="js/projects.js"></script>
     <script src="js/contact.js"></script>
 </body>
 </html>
