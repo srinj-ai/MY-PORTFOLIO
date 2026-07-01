@@ -1,24 +1,24 @@
 const PROJECTS = [
     {
-        name: 'SpammyBot',
-        description: 'A personal Discord bot that sends memes and watches for friends.',
-        language: 'Python',
+        name: 'VORTEX AI',
+        description: 'A API calling web site which can help you get multiple API responses in one place with outer ferature like VTV and other features.',
+        language: 'Python and JavaScript',
         languageClass: 'text-purple-400',
-        githubUrl: 'https://github.com/srinj-ai/SpammyBot',
+        githubUrl: 'https://vortex-ai-assistent-uw75.vercel.app/',
     },
     {
-        name: 'Infinite Clicker',
-        description: 'A simple browser game with score multipliers. Very addicting!',
-        language: 'JavaScript',
+        name: 'Wed OS',
+        description: 'A exeperement of making a working operating system in the browser using HTML, CSS and JS.',
+        language: 'JavaScript and Vite',
         languageClass: 'text-pink-400',
-        githubUrl: 'https://github.com/srinj-ai/infinite-clicker',
+        githubUrl: 'https://web-os-portfolio-lake.vercel.app/',
     },
     {
-        name: 'My Dotfiles',
-        description: 'Custom Linux settings and terminal themes I use daily.',
-        language: 'Bash Shell',
-        languageClass: 'text-blue-400',
-        githubUrl: 'https://github.com/srinj-ai/dotfiles',
+        name: 'Pokemon searcher',
+        description: 'A web application for searching and viewing Pokemon information.',
+        language: 'JavaScript and React',
+        languageClass: 'text-green-400',
+        githubUrl: 'https://pokedex-search-srinjoy.streamlit.app/',
     },
 ];
 
