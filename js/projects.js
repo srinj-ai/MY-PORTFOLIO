@@ -1,19 +1,19 @@
 const PROJECTS = [
-    {
-        name: 'VORTEX AI',
+    {// VORTEX AI Assistent
+        name: 'VORTEX AI Assistent',
         description: 'A API calling web site which can help you get multiple API responses in one place with outer ferature like VTV and other features.',
         language: 'Python and JavaScript',
         languageClass: 'text-purple-400',
         githubUrl: 'https://vortex-ai-assistent-uw75.vercel.app/',
     },
-    {
+    {// Wed OS
         name: 'Wed OS',
         description: 'A exeperement of making a working operating system in the browser using HTML, CSS and JS.',
         language: 'JavaScript and Vite',
         languageClass: 'text-pink-400',
         githubUrl: 'https://web-os-portfolio-lake.vercel.app/',
     },
-    {
+    {// POKEMON SEARCHER
         name: 'Pokemon searcher',
         description: 'A web application for searching and viewing Pokemon information.',
         language: 'JavaScript and React',
@@ -21,6 +21,8 @@ const PROJECTS = [
         githubUrl: 'https://pokedex-search-srinjoy.streamlit.app/',
     },
 ];
+// I WILLAdd more projects as needed
+
 
 document.addEventListener('DOMContentLoaded', () => {
     const grid = document.getElementById('projects-grid');
