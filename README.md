@@ -2,6 +2,13 @@
 
 A cozy, teen developer portfolio site built with HTML, Tailwind CSS, and vanilla JavaScript.
 
+
+<p align="center">
+  <img src="assets/image.webp" alt="VORTEX AI">
+</p>
+
+
+
 ## Project structure
 
 ```
