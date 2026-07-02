@@ -14,7 +14,7 @@ A cozy, teen developer portfolio site built with HTML, Tailwind CSS, and vanilla
 ```
 MY-PORTFOLIO/
 ├── assets/
-│   └──image.webp
+│   └──image.webp           # image 
 ├── index.html              # Main page (GitHub Pages entry point)
 ├── css/
 │   └── styles.css          # Custom styles
