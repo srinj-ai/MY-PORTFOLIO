@@ -21,8 +21,6 @@ MY-PORTFOLIO/
 
 - Sticky navigation with smooth scroll
 - Hero, about, projects, and contact sections
-- Contact form with client-side validation
-- Purple night-theme aesthetic with sketch-style project cards
 
 ## Run locally
 
@@ -32,9 +30,3 @@ Open `index.html` in your browser, or serve the folder with any static file serv
 npx serve .
 ```
 
-## Deploy on GitHub Pages
-
-1. Push this repo to GitHub
-2. Go to **Settings → Pages**
-3. Set source to **Deploy from branch** → `main` → `/ (root)`
-4. Your site will be live at `https://<username>.github.io/MY-PORTFOLIO/`
